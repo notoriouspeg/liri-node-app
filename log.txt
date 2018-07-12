@@ -174,3 +174,131 @@ Rotten Tomatoes Rating: N/A
 Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
  =============== LOG ENTRY END ===============
  
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 17:07:41 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,the,lego,movie
+DATA OUTPUT:
+Title: The Shawshank Redemption
+Year: 1994
+IMDb Rating: 9.3
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/shawshank_redemption/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 17:08:01 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,lego,movie
+DATA OUTPUT:
+Title: The Lego Movie
+Year: 2014
+IMDb Rating: 7.8
+Country: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 17:45:59 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,lego,movie
+DATA OUTPUT:
+Title: The LEGO Movie 4D: A New Adventure
+Year: 2016
+IMDb Rating: 6.3
+Country: USA
+Language: English
+Plot: A Legoland ride taking place after the events of the 2014 movie, The Lego Movie
+Actors: Elizabeth Banks, Alison Brie, Charlie Day, A.J. LoCascio
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 17:46:25 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,the,lego,movie
+DATA OUTPUT:
+Title: The Lego Movie
+Year: 2014
+IMDb Rating: 7.8
+Country: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 17:47:00 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,wild,at,heart
+DATA OUTPUT:
+Title: Wild at Heart
+Year: 1990
+IMDb Rating: 7.2
+Country: USA
+Language: English, Spanish
+Plot: Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.
+Actors: Nicolas Cage, Laura Dern, Willem Dafoe, J.E. Freeman
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/wild_at_heart/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 17:47:15 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,under,the,cherry,moon
+DATA OUTPUT:
+Title: Under the Cherry Moon
+Year: 1986
+IMDb Rating: 4.9
+Country: USA
+Language: English, French
+Plot: Two cousins from Miami are in the Mediterranean, enjoying life by scamming money off of rich women. One day, they read about a young woman set to inherit $50,000,000 from her father. At ...
+Actors: Prince, Jerome Benton, Kristin Scott Thomas, Steven Berkoff
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/under_the_cherry_moon/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 18:07:46 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,under,the,cherry,moon
+DATA OUTPUT:
+Title: Under the Cherry Moon
+Year: 1986
+IMDb Rating: 4.9
+Country: USA
+Language: English, French
+Plot: Two cousins from Miami are in the Mediterranean, enjoying life by scamming money off of rich women. One day, they read about a young woman set to inherit $50,000,000 from her father. At ...
+Actors: Prince, Jerome Benton, Kristin Scott Thomas, Steven Berkoff
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/under_the_cherry_moon/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Jul 12 2018 18:07:54 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,the,lego,movie
+DATA OUTPUT:
+Title: The Lego Movie
+Year: 2014
+IMDb Rating: 7.8
+Country: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
+ =============== LOG ENTRY END ===============
+ 
