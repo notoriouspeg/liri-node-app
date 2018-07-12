@@ -73,6 +73,7 @@ function myTweets() {
         }
     });
 }
+//spotify piece not returning anything in console
 function spotifyThis(value) {
     if (value == null) {
         value = 'The Sign';
@@ -107,6 +108,7 @@ function omdbThis(value) {
             console.log('Language: ' + jsonBody.Language);
             console.log('Plot: ' + jsonBody.Plot);
             console.log('Actors: ' + jsonBody.Actors);
+//rotten tomatoes returning "NA" for all movies
             console.log('Rotten Tomatoes Rating: ' + jsonBody.tomatoRating);
             console.log('Rotten Tomatoes URL: ' + jsonBody.tomatoURL);
             console.log(' ');
@@ -116,7 +118,7 @@ function omdbThis(value) {
         }
     });
 }
-
+//Not working yet probably because spotify-this-song not working
 function random() {
     fs.readFile('random.txt', 'utf8', function(error, data) {
         if (error) {
