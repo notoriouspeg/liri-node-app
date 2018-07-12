@@ -1,0 +1,176 @@
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 22:24:13 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,omdb,avengers
+DATA OUTPUT:
+Title: The Avengers
+Year: 2012
+IMDb Rating: 8.1
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 22:38:49 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,avengers
+DATA OUTPUT:
+Title: The Avengers
+Year: 2012
+IMDb Rating: 8.1
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 22:41:15 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,avengers
+DATA OUTPUT:
+Title: The Avengers
+Year: 2012
+IMDb Rating: 8.1
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:20:03 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,avengers
+DATA OUTPUT:
+Title: The Avengers
+Year: 2012
+IMDb Rating: 8.1
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:21:11 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,avengers
+DATA OUTPUT:
+Title: The Avengers
+Year: 2012
+IMDb Rating: 8.1
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/marvels_the_avengers/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:21:31 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,the,lego,movie
+DATA OUTPUT:
+Title: The Shawshank Redemption
+Year: 1994
+IMDb Rating: 9.3
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/shawshank_redemption/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:22:14 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,thelegomovie
+DATA OUTPUT:
+Title: undefined
+Year: undefined
+IMDb Rating: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:22:20 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,lego,movie
+DATA OUTPUT:
+Title: The Lego Movie
+Year: 2014
+IMDb Rating: 7.8
+Country: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:31:06 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,lego,movie
+DATA OUTPUT:
+Title: The Lego Movie
+Year: 2014
+IMDb Rating: 7.8
+Country: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:31:14 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this
+DATA OUTPUT:
+Title: Mr. Nobody
+Year: 2009
+IMDb Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Jul 11 2018 23:40:50 GMT-0500 (Central Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\pmickel\Documents\codingBootcamp\homeworks\liri-node-app\liri.js,movie-this,lego,movie
+DATA OUTPUT:
+Title: The Lego Movie
+Year: 2014
+IMDb Rating: 7.8
+Country: Australia, USA, Denmark
+Language: English
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lego_movie/
+ =============== LOG ENTRY END ===============
+ 
